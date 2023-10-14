@@ -29,7 +29,7 @@ const ContactUs = () => {
   };
 
   return (
-    <div className='bg-[#f2f2f2] md:pt-32 xsm:pt-16 pb-3'>
+    <div className='bg-[#f2f2f2] md:pt-32 xsm:pt-20 pb-3'>
       <div className='px-5 max-w-[1260px] w-full mx-auto h-[100vh]'>
         <div className='flex md:flex-row justify-center items-start xsm:flex-col gap-5'>
           <div className='max-w-[630px] w-full '>
