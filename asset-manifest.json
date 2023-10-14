@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yaya-page/static/css/main.8a498211.css",
+    "main.js": "/yaya-page/static/js/main.64ed2879.js",
+    "index.html": "/yaya-page/index.html",
+    "main.8a498211.css.map": "/yaya-page/static/css/main.8a498211.css.map",
+    "main.64ed2879.js.map": "/yaya-page/static/js/main.64ed2879.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a498211.css",
+    "static/js/main.64ed2879.js"
+  ]
+}
